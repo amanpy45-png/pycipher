@@ -96,4 +96,4 @@ The cipher covers all 94 printable ASCII characters plus space (95 total):
 
 ## License
 
-MIT — free to use and modify.
+MIT 
